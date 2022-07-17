@@ -1,0 +1,33 @@
+p {
+    color: rgb(42, 73, 165);
+}
+table {
+    border: 2px dotted aquamarine;
+    border-radius: 16px;
+    padding: 8px;
+}
+th {
+    border: 3px double green;
+    border-radius: 12px;
+    padding: 10px;
+}
+td {
+    border: 3px double cyan;
+    border-radius: 15px;
+    padding: 10px;
+}
+td {
+    color: rgb(163, 165, 42);
+}
+h1 {
+    border: 3px solid yellow;
+}
+h2 {
+    border: 3px dotted brown;
+}
+h3 {
+    border: 4px double blueviolet;
+}
+.first_table {
+    margin-left: 70px;
+}
